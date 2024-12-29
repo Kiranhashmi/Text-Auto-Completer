@@ -5,7 +5,7 @@ This auto- completer Provides suggestions and completes the word as the user typ
 
 TO RUN THIS CODE:
 1. first download the word list
-2. then in the code paste the path of the word file you just downloaded
+2. then in the main func of code paste the path of the word file you just downloaded
 and TADAAA  you can now run this code smoothly
 
 PEACE OUT ❤️
